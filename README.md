@@ -1,7 +1,7 @@
 ### Olá! Kevin Caldieraro aqui 🙂
 
 - 🎓Técnico em informática pelo Instituto Federal do Rio Grande do Sul (IFRS)
-- 🌱Atualmente estou estudando javascript
+- 🌱Atualmente estudando javascript
 - ⌛Procuro sempre aprender coisas novas e aprimorar o que já sei
 
 ##
