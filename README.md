@@ -2,8 +2,7 @@
 
 - 🎓Técnico em informática pelo Instituto Federal do Rio Grande do Sul (IFRS);
 - 🌱Atualmente estudando javascript;
-- ⌛Procuro sempre aprender coisas novas e aprimorar o que já sei;
-- 📚Minha maior motivação para estudar programação é saber que há muitos problemas para serem resolvidos.
+- ⌛Procuro sempre aprender coisas novas e aprimorar o que conheço.
 
 ##
 
