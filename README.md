@@ -1,7 +1,7 @@
 ### Olá! Kevin Caldieraro aqui 🙂
 
 - 🎓Técnico em informática pelo Instituto Federal do Rio Grande do Sul (IFRS);
-- 🌱Atualmente estudando javascript;
+- 🌱Atualmente estudando javascript e nodeJS;
 - ⌛Procuro sempre aprender coisas novas e aprimorar o que conheço.
 
 ##
@@ -13,6 +13,7 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="kc-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="kc-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="kc-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="kc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
