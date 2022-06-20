@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/kevinCaldieraro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinCaldieraro&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinCaldieraro&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
