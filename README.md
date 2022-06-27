@@ -1,7 +1,7 @@
 ### Olá! Kevin Caldieraro aqui 🙂
 
 - 🎓Técnico em informática pelo Instituto Federal do Rio Grande do Sul (IFRS);
-- 🌱Atualmente estudando React e node;
+- 🌱Atualmente estudando typescript e node;
 - ⌛Procuro sempre aprender coisas novas e aprimorar o que conheço.
 
 ##
