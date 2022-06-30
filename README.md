@@ -1,8 +1,8 @@
-### Olá! Kevin Caldieraro aqui 🙂
+## Olá! Kevin Caldieraro aqui 🙂
 
-- 🎓Técnico em informática pelo Instituto Federal do Rio Grande do Sul (IFRS);
-- 🌱Atualmente estudando typescript e node;
-- ⌛Procuro sempre aprender coisas novas e aprimorar o que conheço.
+🎓 Técnico em informática pelo Instituto Federal do Rio Grande do Sul (IFRS); <br>
+🌱 Atualmente estudando typescript e node;<br>
+⌛ Procuro sempre aprender coisas novas e aprimorar o que conheço.
 
 ##
 
