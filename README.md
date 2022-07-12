@@ -1,8 +1,8 @@
-## Olá! Kevin Caldieraro aqui 🙂
+## Hey, Welcome to my GitHub! I'm Kevin Caldieraro 🙂
 
-🎓 Técnico em informática pelo Instituto Federal do Rio Grande do Sul (IFRS); <br>
-🌱 Atualmente estudando typescript e node;<br>
-⌛ Procuro sempre aprender coisas novas e aprimorar o que conheço.
+🎓 I'm Computer Technician graduated by IFRS (Instituto Federal do Rio Grande do Sul); <br>
+🌱 I'm currently learning about JavaScript and NodeJS;<br>
+⌛ I'm always searching about new things and how I can improve what I known.
 
 ##
 
