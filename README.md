@@ -1,6 +1,6 @@
 ## Hey, Welcome to my GitHub! I'm Kevin Caldieraro 🙂
 
-🎓 I'm Computer Technician graduated by IFRS (Instituto Federal do Rio Grande do Sul); <br>
+🎓 Computer Technician graduated by IFRS (Instituto Federal do Rio Grande do Sul); <br>
 🌱 I'm currently learning about JavaScript and NodeJS;<br>
 ⌛ I'm always searching about new things and how I can improve what I known.
 
