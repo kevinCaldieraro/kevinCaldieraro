@@ -1,7 +1,7 @@
 ## Hey, Welcome to my GitHub! I'm Kevin Caldieraro 🙂
 
 🎓 Computer Technician graduated by IFRS (Instituto Federal do Rio Grande do Sul); <br>
-🌱 I'm currently learning about JavaScript and NodeJS;<br>
+🌱 I'm currently learning about ReactJS;<br>
 ⌛ I'm always searching about new things and how I can improve what I known.
 
 ##
