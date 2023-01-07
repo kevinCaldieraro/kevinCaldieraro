@@ -8,9 +8,10 @@
 
 <div>
   <a href="https://github.com/kevinCaldieraro">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinCaldieraro&layout=compact&langs_count=7&theme=omni"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinCaldieraro&layout=compact&langs_count=6&theme=dark">
+  </a> &nbsp;
+  <a href="https://github.com/kevinCaldieraro"><img height="140em" src="https://streak-stats.demolab.com?user=kevinCaldieraro&theme=dark"></a>
 </div>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kevinCaldieraro)](https://git.io/streak-stats)
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
