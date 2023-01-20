@@ -7,9 +7,9 @@
 ##
 
 <div>
-  <a href="https://github.com/kevinCaldieraro">
+  <!--<a href="https://github.com/kevinCaldieraro">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinCaldieraro&layout=compact&langs_count=6&theme=dark">
-  </a> &nbsp;
+  </a> &nbsp;-->
   <a href="https://github.com/kevinCaldieraro"><img height="140em" src="https://streak-stats.demolab.com?user=kevinCaldieraro&theme=dark"></a>
 </div>
   
