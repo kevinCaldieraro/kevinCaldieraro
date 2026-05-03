@@ -45,17 +45,6 @@ I'm **Kevin Caldieraro**, a Fullstack Developer focused on building scalable and
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/kevinCaldieraro">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kevinCaldieraro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinCaldieraro&layout=compact&langs_count=6&theme=dark"/>
-  </a>
-</div>
-
----
-
 ## 🌎 Languages
 
 🇧🇷 Portuguese: Native  
